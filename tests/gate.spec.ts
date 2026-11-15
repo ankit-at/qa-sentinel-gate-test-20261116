@@ -1,1 +1,1 @@
-export const gateFixture = 'baseline';
+export const gateFixture = 'fixed';
