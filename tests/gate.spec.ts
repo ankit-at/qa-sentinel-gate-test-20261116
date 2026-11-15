@@ -1,3 +1,1 @@
-export function run(page: { click(): void }) {
-  page.click();
-}
+export const gateFixture = 'fixed';
